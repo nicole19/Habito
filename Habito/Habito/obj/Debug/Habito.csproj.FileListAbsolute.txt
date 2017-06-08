@@ -1,0 +1,10 @@
+E:\Executaveis liberados\Habito\Habito\bin\Debug\Habito.exe.config
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\Habito\Habito\Habito\bin\Debug\Habito.exe.config
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\Habito\Habito\Habito\bin\Debug\Habito.exe
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\Habito\Habito\Habito\bin\Debug\Habito.pdb
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\Habito\Habito\Habito\obj\Debug\Habito.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\Habito\Habito\Habito\obj\Debug\Habito.Principal.resources
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\Habito\Habito\Habito\obj\Debug\Habito.Properties.Resources.resources
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\Habito\Habito\Habito\obj\Debug\Habito.csproj.GenerateResource.Cache
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\Habito\Habito\Habito\obj\Debug\Habito.exe
+C:\Users\Samsung\Documents\Visual Studio 2015\Projects\Habito\Habito\Habito\obj\Debug\Habito.pdb
